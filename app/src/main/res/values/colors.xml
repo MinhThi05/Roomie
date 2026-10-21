@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Standardized Roomie Color Palette (Preserving Exact Original Colors) -->
+    <color name="roomie_primary">#531326</color>
+    <color name="roomie_primary_dark">#3D0B1B</color>
+    <color name="roomie_background">#FFFFFF</color>
+    <color name="roomie_surface">#FFFFFF</color>
+
+    <!-- Semantic Text Colors -->
+    <color name="roomie_text_primary">#2D121B</color>
+    <color name="roomie_text_secondary">#7A6C72</color>
+    <color name="roomie_text_muted">#9A8D93</color>
+    <color name="roomie_text_button_secondary">#28362D</color>
+
+    <!-- Aliases for backward compatibility -->
+    <color name="maroon_primary">#531326</color>
+    <color name="maroon_primary_dark">#3D0B1B</color>
+    <color name="text_primary">#2D121B</color>
+    <color name="text_secondary">#7A6C72</color>
+    <color name="text_muted">#9A8D93</color>
+    <color name="bg_screen">#FFFFFF</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="bg_progress_track">#E3ECE5</color>
+    <color name="bg_button_secondary">#E2EAE4</color>
+    <color name="text_button_secondary">#28362D</color>
+    <color name="card_stroke">#E2E8F0</color>
+    <color name="card_stroke_focused">#531326</color>
+
+    <!-- Danger / Red Accents -->
+    <color name="color_danger">#C53030</color>
+    <color name="color_danger_bg">#FCE8E6</color>
+    <color name="color_danger_text_dark">#662222</color>
+
+    <!-- Success / Cream Accents -->
+    <color name="color_success_outer">#FFF8EE</color>
+    <color name="color_success_inner_stroke">#F5EBE1</color>
+    <color name="color_chip_highlight_bg">#F8EFF2</color>
+
+    <!-- Map & Graphic Accents -->
+    <color name="color_dashed_stroke">#78887C</color>
+    <color name="color_switch_track_off">#D1C4C7</color>
+    <color name="map_bg">#F4F1EA</color>
+    <color name="map_park">#D8E8D5</color>
+    <color name="map_grid">#E3DDD3</color>
+    <color name="map_road_stroke">#E8DFD1</color>
+    <color name="map_polygon">#E87455</color>
+</resources>

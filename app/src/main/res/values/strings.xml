@@ -1,0 +1,309 @@
+<resources>
+    <string name="app_name">Roomie</string>
+    <string name="title_create_post">Tạo bài đăng</string>
+    <string name="auto_save_draft">Lưu nháp tự động</string>
+    <string name="step_progress_text">BƯỚC 3/5</string>
+    <string name="step_progress_percent">60%</string>
+    <string name="main_heading">Bạn cùng phòng lý tưởng</string>
+    <string name="section_priority">Ưu tiên bạn cùng phòng</string>
+    <string name="chip_female">Nữ</string>
+    <string name="chip_male">Nam</string>
+    <string name="chip_no_pref">Không quan trọng</string>
+    <string name="chip_student">Sinh viên</string>
+    <string name="chip_worker">Người đi làm</string>
+    <string name="chip_no_smoking">Không hút thuốc</string>
+    <string name="section_expectations">Mong muốn khi sống chung</string>
+    <string name="hint_expectations">Sạch sẽ, có trách nhiệm với không gian chung; tôn trọng giờ nghỉ và chia đều việc nhà.</string>
+    <string name="section_phone">Số điện thoại liên hệ</string>
+    <string name="sample_phone">090 ••• 4567</string>
+    <string name="title_allow_zalo">Cho phép liên hệ Zalo</string>
+    <string name="subtitle_allow_zalo">Mở Zalo bằng số điện thoại liên hệ.</string>
+    <string name="title_allow_call">Cho phép gọi điện</string>
+    <string name="subtitle_allow_call">Hiện nút gọi trên bài đăng.</string>
+    <string name="disclaimer_contact">Người quan tâm liên hệ qua Zalo hoặc điện thoại. Không có nhắn tin trong Roomie.</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_next">Tiếp theo</string>
+
+    <!-- Step 4 Strings -->
+    <string name="step4_progress_text">BƯỚC 4/5</string>
+    <string name="step4_progress_percent">80%</string>
+    <string name="main_heading_pin_location">Ghim vị trí chính xác</string>
+    <string name="chip_university">ĐH Bách Khoa</string>
+    <string name="address_title">268 Lý Thường Kiệt, Quận 10</string>
+    <string name="address_subtitle">Phường 14, TP. Hồ Chí Minh · Khu dân cư yên tĩnh</string>
+
+    <!-- Step 5 Strings -->
+    <string name="step5_progress_text">BƯỚC 5/5</string>
+    <string name="step5_progress_percent">100%</string>
+    <string name="main_heading_add_photos">Thêm ảnh phòng</string>
+    <string name="section_room_photos">Ảnh phòng</string>
+    <string name="photo_count_sample">3/10 ảnh</string>
+    <string name="btn_add_photo">Thêm ảnh</string>
+    <string name="btn_preview">Xem trước</string>
+
+    <!-- Preview Screen Strings -->
+    <string name="title_preview_post">Xem trước bài đăng</string>
+    <string name="subtitle_preview_post">Kiểm tra nội dung trước khi đăng</string>
+    <string name="badge_preview_mode">BẢN XEM TRƯỚC</string>
+    <string name="post_title_sample">Phòng sáng ban công gần ĐH Bách Khoa</string>
+    <string name="post_price_sample">3.800.000 đ/tháng</string>
+    <string name="post_address_sample">268 Lý Thường Kiệt, Phường 14, Quận 10</string>
+    <string name="badge_need_roommate">Cần 1 bạn</string>
+    <string name="badge_move_in_date">Vào ở 15/10</string>
+    <string name="badge_amenities">5 tiện nghi</string>
+    <string name="section_room_description">Mô tả phòng</string>
+    <string name="desc_room_sample">Phòng thoáng, nhiều ánh sáng tự nhiên, cách trường 7 phút đi bộ. Ưu tiên bạn nữ sạch sẽ, không hút thuốc. Có thể dọn vào ngay.</string>
+    <string name="section_roommate_requirements">Yêu cầu bạn cùng phòng</string>
+    <string name="req_roommate_sample">Tìm bạn nữ sạch sẽ, có trách nhiệm với không gian chung. Ưu tiên sinh viên hoặc người đi làm cố định.</string>
+    <string name="btn_edit">Chỉnh sửa</string>
+    <string name="btn_publish">Đăng bài chính thức</string>
+
+    <!-- Post Success Screen Strings -->
+    <string name="title_post_success_header">Đăng bài</string>
+    <string name="title_post_success">Đăng bài thành công</string>
+    <string name="label_your_post">Bài đăng của bạn</string>
+    <string name="status_searching">Đang tìm</string>
+    <string name="card_post_title_sample">Phòng sáng ban công gần Bách Khoa</string>
+    <string name="card_location_sample">Quận 10, Hồ Chí Minh</string>
+    <string name="btn_my_posts">Bài đăng của tôi</string>
+
+    <!-- My Post Detail Screen Strings -->
+    <string name="caption_posted">ĐÃ ĐÃNG</string>
+    <string name="title_my_post_header">Bài đăng của bạn</string>
+    <string name="pill_searching">Đang tìm</string>
+    <string name="pill_interested_count">12 người quan tâm</string>
+    <string name="post_created_date">Đăng ngày 02/10/2026 · Cần 2 bạn</string>
+    <string name="desc_my_post_sample">Phòng thoáng, nhiều ánh sáng tự nhiên, cách trường 7 phút đi bộ. Ưu tiên bạn nữ sạch sẽ, không hút thuốc.</string>
+    <string name="notice_my_post_title">Bạn đang xem bài đăng của mình</string>
+    <string name="notice_my_post_sub">Chỉnh sửa nội dung hoặc cập nhật trạng thái khi đã tìm đủ người.</string>
+    <string name="btn_manage_status">Quản lý trạng thái</string>
+    <string name="btn_edit_post">Chỉnh sửa bài đăng</string>
+
+    <!-- Bottom Nav Strings -->
+    <string name="nav_explore">Khám phá</string>
+    <string name="nav_saved">Đã lưu</string>
+    <string name="nav_my_posts">Bài đăng</string>
+    <string name="nav_profile">Hồ sơ</string>
+
+    <!-- Edit Post Screen Strings -->
+    <string name="caption_draft_saved">BẢN NHÁP ĐÃ LƯU</string>
+    <string name="title_edit_post">Chỉnh sửa bài đăng</string>
+    <string name="label_post_title">Tiêu đề bài đăng</string>
+    <string name="hint_post_title">Nổi bật ưu điểm chính, tối đa 80 ký tự</string>
+    <string name="label_description">Mô tả</string>
+    <string name="sample_description_edit">Phòng thoáng, nhiều ánh sáng tự nhiên, cách trường 7 phút đi bộ. Khu vực an ninh và yên tĩnh&#8230;</string>
+    <string name="label_rent_price">Giá thuê</string>
+    <string name="sample_rent_price">3.200.000đ</string>
+    <string name="label_area">Diện tích</string>
+    <string name="sample_area">28 m²</string>
+    <string name="label_address">Địa chỉ</string>
+    <string name="label_amenities_section">Tiện ích</string>
+    <string name="amenity_ac">Máy lạnh</string>
+    <string name="amenity_washer">Máy giặt</string>
+    <string name="amenity_kitchen">Bếp</string>
+    <string name="amenity_more">+4</string>
+    <string name="btn_publish_room">Đăng phòng</string>
+
+    <!-- Status Management Strings -->
+    <string name="title_manage_status">Trạng thái bài đăng</string>
+    <string name="sample_address_hanoi">Hai Bà Trưng, Hà Nội</string>
+    <string name="section_current_status">Trạng thái hiện tại</string>
+    <string name="status_searching_title">Đang tìm</string>
+    <string name="status_searching_sub">Hiển thị để tìm thêm bạn cùng phòng.</string>
+    <string name="status_found_title">Đã tìm đủ người</string>
+    <string name="status_found_sub">Thông báo bạn không còn tìm thêm.</string>
+    <string name="status_hidden_title">Đã ẩn</string>
+    <string name="status_hidden_sub">Tạm ngừng hiển thị trong Khám phá.</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_save_status">Lưu trạng thái</string>
+
+    <!-- Delete Post Strings -->
+    <string name="title_delete_post_header">Xóa bài đăng</string>
+    <string name="headline_delete_post">Bạn muốn xóa bài này?</string>
+    <string name="warning_delete_title">Hành động này không thể hoàn tác</string>
+    <string name="warning_delete_body">Bài đăng sẽ bị xóa khỏi hồ sơ và không còn hiển thị cho người tìm phòng. Ảnh và nội dung của bài cũng sẽ bị xóa.</string>
+    <string name="hint_delete_alternative">Nếu chỉ muốn tạm ngừng tìm bạn, bạn có thể ẩn bài thay vì xóa.</string>
+    <string name="btn_cancel_keep_post">Hủy, giữ lại bài đăng</string>
+    <string name="btn_confirm_delete">Xóa bài đăng</string>
+
+    <!-- Drafts Strings -->
+    <string name="title_drafts_header">Bản nháp bài đăng</string>
+    <string name="sub_drafts_header">Tiếp tục từ lần chỉnh sửa gần nhất. Bản nháp chưa hiển thị trong Khám phá.</string>
+    <string name="step2_progress_text">BƯỚC 2/5</string>
+    <string name="step2_progress_percent">40%</string>
+    <string name="draft1_sub">Đang soạn · Giá &amp; tiện ích · Vừa lưu</string>
+    <string name="draft_untitled_title">Bài đăng chưa đặt tiêu đề</string>
+    <string name="draft_untitled_location">Chưa chọn khu vực</string>
+    <string name="step1_progress_text">BƯỚC 1/5</string>
+    <string name="step1_progress_percent">20%</string>
+    <string name="draft2_sub">Đang soạn · Thông tin cơ bản · Hôm qua</string>
+    <string name="btn_continue_edit">Tiếp tục chỉnh sửa</string>
+    <string name="btn_discard_draft">Bỏ bản nháp</string>
+    <string name="disclaimer_drafts">Thay đổi trong bản nháp chưa cập nhật lên bài đã đăng. Chỉ đăng khi bạn đã kiểm tra đầy đủ nội dung.</string>
+
+    <!-- My Profile Screen Strings -->
+    <string name="caption_member_since">THÀNH VIÊN TỪ 2025</string>
+    <string name="title_my_profile">Hồ sơ của tôi</string>
+    <string name="profile_name_sample">Mai Linh</string>
+    <string name="profile_sub_sample">Sinh viên · Quận 10, TP.HCM</string>
+    <string name="title_habits_quiz">Hồ sơ thói quen sống</string>
+    <string name="sub_habits_date">Cập nhật 28/09/2026</string>
+    <string name="badge_quiz_completed">Đã hoàn tất</string>
+    <string name="btn_retake_quiz">Làm lại bài kiểm tra</string>
+
+    <string name="header_account">TÀI KHOẢN</string>
+    <string name="menu_personal_info">Thông tin cá nhân</string>
+    <string name="menu_verification_safety">Xác minh &amp; an toàn</string>
+    <string name="menu_notifications">Thông báo</string>
+    <string name="menu_settings">Cài đặt</string>
+    <string name="btn_logout">Đăng xuất</string>
+
+    <!-- Notifications Screen Strings -->
+    <string name="caption_inbox">HỘP THƯ</string>
+    <string name="title_notifications">Thông báo</string>
+    <string name="btn_read_all">Đọc tất cả</string>
+    <string name="section_today">Hôm nay</string>
+    <string name="count_unread">2 chưa đọc</string>
+    <string name="notif1_title">Gợi ý phòng mới phù hợp 92%</string>
+    <string name="notif1_sub">Có 6 phòng mới quanh Cầu Giấy trong ngân sách của bạn.</string>
+    <string name="notif1_time">10:24</string>
+    <string name="link_mark_read">Đánh dấu đã đọc</string>
+    <string name="link_delete">Xóa</string>
+    <string name="notif2_title">Bài đăng sắp hết hạn</string>
+    <string name="notif2_sub">Gia hạn bài đăng trước 12/10 để tiếp tục hiển thị.</string>
+    <string name="notif2_time">09:10</string>
+    <string name="section_earlier">Trước đó</string>
+    <string name="notif3_title">Có người đã lưu bài đăng của bạn</string>
+    <string name="notif3_sub">4 người dùng đã lưu bài đăng phòng gần ĐH Bách Khoa của bạn.</string>
+    <string name="notif3_time">Hôm qua</string>
+
+    <!-- Edit Profile Screen Strings -->
+    <string name="title_edit_profile">Chỉnh sửa hồ sơ</string>
+    <string name="btn_change_avatar">Thay ảnh đại diện</string>
+    <string name="sub_change_avatar">Ảnh rõ mặt giúp dễ làm quen</string>
+    <string name="label_display_name">Tên hiển thị</string>
+    <string name="label_occupation">Nghề nghiệp</string>
+    <string name="sample_occupation">Sinh viên</string>
+    <string name="label_school_workplace">Trường học / nơi làm việc</string>
+    <string name="sample_school_workplace">ĐH Bách Khoa TP.HCM</string>
+    <string name="label_about_me">Giới thiệu bản thân</string>
+    <string name="sample_about_me">Mình thích không gian gọn gàng, yên tĩnh để học. Mong tìm được bạn cùng phòng tôn trọng và chia sẻ việc nhà.</string>
+    <string name="label_living_area">Khu vực sinh sống</string>
+    <string name="sample_living_area">Quận 10, TP. Hồ Chí Minh</string>
+    <string name="disclaimer_edit_profile">Thông tin này xuất hiện trên hồ sơ của bạn. Bạn có thể điều chỉnh hiển thị trong Quyền riêng tư.</string>
+    <string name="btn_save_changes">Lưu thay đổi</string>
+
+    <!-- Verification & Safety Strings -->
+    <string name="title_verification_safety">Xác minh &amp; an toàn</string>
+    <string name="verified_phone_title">Tài khoản đã xác minh số điện thoại</string>
+    <string name="verified_phone_sub">Mai Linh · Xác minh giúp kết nối tin cậy hơn.</string>
+    <string name="phone_verified_card_title">Số điện thoại · Đã xác minh</string>
+    <string name="btn_reverify_phone">Thay đổi &amp; xác minh lại</string>
+    <string name="email_unverified_card_title">Email · Chưa xác minh</string>
+    <string name="sample_email">linh.nguyen@email.com</string>
+    <string name="btn_send_email_code">Gửi mã xác minh email</string>
+    <string name="section_protect_info">Bảo vệ thông tin của bạn</string>
+    <string name="menu_contact_visibility">Quyền hiển thị liên hệ</string>
+    <string name="sub_contact_visibility">Chọn có hiển thị Zalo và số điện thoại.</string>
+    <string name="tip_safety_warning">Không chia sẻ mật khẩu, mã OTP hoặc thông tin ngân hàng. Nên xem phòng trực tiếp trước khi trao đổi tiền cọc.</string>
+    <string name="disclaimer_verification">Xác minh số điện thoại không xác nhận danh tính hay chất lượng phòng của người đăng.</string>
+
+    <!-- Settings Strings -->
+    <string name="title_settings">Cài đặt</string>
+    <string name="sub_settings_header">Quản lý tài khoản và tùy chỉnh trải nghiệm của bạn trên Roomie.</string>
+    <string name="header_account_options">TÀI KHOẢN &amp; TÙY CHỌN</string>
+    <string name="menu_change_password">Đổi mật khẩu</string>
+    <string name="sub_change_password">Bảo vệ tài khoản của bạn</string>
+    <string name="menu_notif_settings">Cài đặt thông báo</string>
+    <string name="sub_notif_settings">Chọn cập nhật bạn muốn nhận</string>
+    <string name="menu_privacy_account">Quyền riêng tư &amp; tài khoản</string>
+    <string name="sub_privacy_account">Quản lý hiển thị và thông tin cá nhân</string>
+    <string name="header_support_feedback">HỖ TRỢ &amp; PHẢN HỒI</string>
+    <string name="menu_help">Trợ giúp</string>
+    <string name="sub_help">Câu hỏi thường gặp và hỗ trợ</string>
+    <string name="menu_send_feedback">Gửi phản hồi</string>
+    <string name="sub_send_feedback">Góp ý để Roomie tốt hơn</string>
+
+    <!-- Change Password Strings -->
+    <string name="caption_account_security">BẢO MẬT TÀI KHOẢN</string>
+    <string name="title_change_password">Đổi mật khẩu</string>
+    <string name="sub_change_password_header">Để bảo vệ tài khoản, hãy chọn mật khẩu mới khác mật khẩu hiện tại.</string>
+    <string name="label_current_password">Mật khẩu hiện tại</string>
+    <string name="sample_dots_pass">••••••••</string>
+    <string name="link_forgot_current_pass">Quên mật khẩu hiện tại?</string>
+    <string name="label_new_password">Mật khẩu mới</string>
+    <string name="sample_dots_new_pass">••••••••••</string>
+    <string name="label_confirm_new_pass">Xác nhận mật khẩu mới</string>
+    <string name="title_secure_pass_criteria">Mật khẩu an toàn</string>
+    <string name="criteria_pass_1">✓ Ít nhất 8 ký tự</string>
+    <string name="criteria_pass_2">✓ Có chữ hoa, chữ thường và số</string>
+    <string name="criteria_pass_3">✓ Hai mật khẩu phải trùng nhau</string>
+    <string name="disclaimer_pass_security">Không chia sẻ mật khẩu với người khác, kể cả người tự xưng là hỗ trợ Roomie.</string>
+    <string name="btn_save_password">Lưu mật khẩu</string>
+
+    <!-- Notification Settings Strings -->
+    <string name="title_notif_settings_header">Cài đặt thông báo</string>
+    <string name="sub_notif_settings_header">Chọn những cập nhật bạn muốn nhận từ Roomie.</string>
+    <string name="header_explore_notif">KHÁM PHÁ</string>
+    <string name="title_notif_matching">Phòng phù hợp với bạn</string>
+    <string name="sub_notif_matching">Phòng mới theo khu vực, ngân sách và thói quen.</string>
+    <string name="header_my_posts_notif">BÀI ĐĂNG CỦA BẠN</string>
+    <string name="title_notif_activity">Hoạt động bài đăng</string>
+    <string name="sub_notif_activity">Khi có người lưu hoặc quan tâm bài đăng.</string>
+    <string name="title_notif_expiring">Nhắc bài sắp hết hạn</string>
+    <string name="sub_notif_expiring">Nhắc bạn gia hạn để tiếp tục hiển thị.</string>
+    <string name="header_other_options">TÙY CHỌN KHÁC</string>
+    <string name="title_notif_tips">Mẹo sống chung</string>
+    <string name="sub_notif_tips">Gợi ý hữu ích về tìm phòng và ở ghép.</string>
+    <string name="box_notif_autosave">Tùy chọn được lưu tự động. Bạn vẫn có thể xem các cập nhật trong mục Thông báo.</string>
+    <string name="title_device_notif">Thông báo trên thiết bị</string>
+    <string name="sub_device_notif">Kiểm tra quyền thông báo trong cài đặt điện thoại.</string>
+
+    <!-- Help Strings -->
+    <string name="title_help_header">Trợ giúp</string>
+    <string name="label_need_help">Bạn cần hỗ trợ gì?</string>
+    <string name="hint_search_faq">Tìm câu hỏi thường gặp&#8230;</string>
+    <string name="header_faq">Câu hỏi thường gặp</string>
+    <string name="faq1_title">Làm sao liên hệ người đăng?</string>
+    <string name="faq1_sub">Mở Chi tiết phòng rồi chọn Liên hệ Zalo hoặc Gọi điện. Roomie không có trò chuyện nội bộ.</string>
+    <string name="faq2_title">Mức tương thích được tính thế nào?</string>
+    <string name="faq3_title">Làm sao chỉnh sửa hoặc ẩn bài?</string>
+    <string name="faq4_title">Tôi quên mật khẩu thì làm gì?</string>
+    <string name="faq5_title">Làm sao báo cáo bài đăng đáng ngờ?</string>
+    <string name="box_no_answer_title">Chưa tìm thấy câu trả lời?</string>
+    <string name="box_no_answer_sub">Gửi nội dung cần hỗ trợ và ảnh minh họa nếu có. Không gửi mật khẩu hoặc mã OTP.</string>
+    <string name="btn_contact_support">Liên hệ hỗ trợ</string>
+    <string name="link_send_feedback_roomie">Gửi phản hồi về Roomie</string>
+
+    <!-- Send Feedback Strings -->
+    <string name="title_send_feedback_header">Gửi phản hồi</string>
+    <string name="sub_send_feedback_header">Mỗi góp ý giúp Roomie trở thành nơi tìm bạn cùng phòng tốt hơn.</string>
+    <string name="label_feedback_type">Loại phản hồi</string>
+    <string name="chip_suggestion">Góp ý</string>
+    <string name="chip_bug_report">Báo lỗi</string>
+    <string name="chip_need_help">Cần hỗ trợ</string>
+    <string name="label_subject">Tiêu đề</string>
+    <string name="sample_subject_feedback">Gợi ý thêm bộ lọc giờ chuyển vào</string>
+    <string name="label_feedback_content">Nội dung phản hồi</string>
+    <string name="sample_content_feedback">Mình muốn tìm phòng có ngày chuyển vào phù hợp với lịch học. Mong Roomie bổ sung bộ lọc này nhé.</string>
+    <string name="char_counter_sample">121 / 1.000 ký tự</string>
+    <string name="label_attach_photo">Ảnh minh họa (không bắt buộc)</string>
+    <string name="text_add_photo_max3">Thêm ảnh · Tối đa 3 ảnh</string>
+    <string name="label_email_feedback">Email nhận phản hồi</string>
+    <string name="disclaimer_feedback_email">Chỉ gửi thông tin cần thiết để hỗ trợ. Không đính kèm mật khẩu, mã OTP hoặc giấy tờ cá nhân.</string>
+    <string name="btn_submit_feedback">Gửi phản hồi</string>
+
+    <!-- Privacy & Account Strings -->
+    <string name="title_privacy_account_header">Quyền riêng tư &amp; tài khoản</string>
+    <string name="title_show_profile">Hiển thị hồ sơ</string>
+    <string name="sub_show_profile">Cho người khác xem giới thiệu và thói quen của bạn.</string>
+    <string name="title_show_contact_post">Hiển thị liên hệ trên bài đăng</string>
+    <string name="sub_show_contact_post">Cho phép liên hệ qua Zalo và gọi điện.</string>
+    <string name="disclaimer_privacy_contact">Thông tin liên hệ không xuất hiện khi bạn tắt tùy chọn. Các thay đổi được lưu tự động.</string>
+    <string name="menu_terms_of_use">Điều khoản sử dụng</string>
+    <string name="menu_privacy_policy">Chính sách quyền riêng tư</string>
+    <string name="box_logout_confirm_title">Bạn muốn đăng xuất?</string>
+    <string name="box_logout_confirm_sub">Bạn cần đăng nhập lại để xem phòng đã lưu và quản lý bài đăng. Bài đăng đã xuất bản không bị xóa.</string>
+    <string name="btn_stay">Ở lại</string>
+    <string name="footer_account_mail">Roomie · Tài khoản Mai Linh</string>
+</resources>
